@@ -25,6 +25,3 @@ jobs:
 
       - name: Lint
         run: flake8 src/ tests/
-
-      - name: Lint
-        run: flake8 src/ tests/
