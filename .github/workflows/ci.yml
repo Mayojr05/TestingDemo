@@ -22,3 +22,9 @@ jobs:
 
       - name: Test
         run: pytest tests/ -v
+
+      - name: Lint
+        run: flake8 src/ tests/
+
+      - name: Lint
+        run: flake8 src/ tests/
