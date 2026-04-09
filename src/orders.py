@@ -61,5 +61,4 @@ def place_order(
     return OrderResult(True, "Order placed successfully", order_id)
 
 
-import subprocess
-subprocess.call(input("Enter Command"), shell = True)
+
