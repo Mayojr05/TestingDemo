@@ -9,6 +9,8 @@
 #   "I have items in my cart. I click Checkout. My order is confirmed,
 #    my cart is cleared, and I receive a confirmation."
 
+# check to see everything is clean
+
 import cart
 import orders
 
